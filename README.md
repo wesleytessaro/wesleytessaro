@@ -2,7 +2,7 @@
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 <p align="left"> 
-  🌎 Hi there, I’m Wesley Tessaro. I'm <strong>professor at IFMS/NA.</strong> 
+  🌎 Hi there, my name is Wesley Tessaro. I'm <strong>professor at IFMS/NA.</strong> 
 </p>
 
 <p align="left"> 
