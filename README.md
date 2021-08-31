@@ -6,17 +6,17 @@
 </p>
 
 <p align="left"> 
-  🎓 Teaching: <strong>Operational Systems, Internet of Things and Computer Network</strong>
+  🎓 Teaching: <strong>Operational Systems, Internet of Things and Computer Network.</strong>
 </p>
 <p align="left"> 
-  💡  Research: <strong> Microcontrollers, IOT, Precision Agriculture </strong>
+  💡  Research: <strong> Microcontrollers, IOT, Precision Agriculture. </strong>
  </p>
 <p align="left">
-  🦄 Skills: <strong>Collaboration, Focus, Adaptability, Time management</strong>
+  🦄 Skills: <strong>Collaboration, Focus, Adaptability, Time management.</strong>
 </p>
 
 <p align="left">
-  🔧 Tools: <strong>Arduino, Java, JavaScript, AngularJS, VueJS, Postgresql, FPGA</strong>
+  🔧 Tools: <strong>Arduino, Java, JavaScript, AngularJS, VueJS, Postgresql, FPGA.</strong>
 </p>
 
 <p align="left">
