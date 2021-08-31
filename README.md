@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  🔧 Tools: <strong>Arduino, Java, JavaScript, AngularJS, VueJS, Postgresql and FPGA.</strong>
+  🔧 Tools: <strong>Arduino, C++, Java, JavaScript, AngularJS, VueJS, Postgresql and FPGA.</strong>
 </p>
 
 <p align="left">
