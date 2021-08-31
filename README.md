@@ -21,6 +21,6 @@
 
 <p align="left">
   <a href="http://lattes.cnpq.br/4657948104547833" alt="Lattes">
-    <img src="https://img.shields.io/badge/-Curriculum Lattes-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=http://lattes.cnpq.br/4657948104547833"/>
+    <img src="https://img.shields.io/badge/-Curriculum%20Lattes-1C1C1C?style=for-the-badge&logo=as&logoColor=00FFFF&link=http://lattes.cnpq.br/4657948104547833"/>
   </a>
   </p>  
