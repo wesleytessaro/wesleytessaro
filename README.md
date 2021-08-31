@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  🎓 Teaching: <strong>Operational Systems, Internet of Things and Computer Network</strong> 
+  🎓 Teaching: <strong>Operational Systems, Internet of Things and Computer Network</strong> <br>
   💡  Research: <strong> Microcontrollers, IOT, Precision Agriculture </strong>
 
 </p>
