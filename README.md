@@ -22,5 +22,8 @@
 <p align="left">
   <a href="http://lattes.cnpq.br/4657948104547833" alt="Lattes">
     <img src="https://img.shields.io/badge/-Curriculum%20Lattes-1C1C1C?style=for-the-badge&logo=as&logoColor=00FFFF&link=http://lattes.cnpq.br/4657948104547833"/>
+  </a> 
+    <a href="https://www.linkedin.com/in/wesleytessaro" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleytessaro"/>
   </a>
   </p>  
