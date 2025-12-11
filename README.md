@@ -13,7 +13,7 @@ I'm a **Senior Backend Engineer** with **7+ years of hands-on experience** build
 **📚 Education**: Master's in Computer Engineering (UFMS) + Exchange at Universidad Politécnica de Madrid  
 **🎓 Certifications**: DELE B2 Spanish (Advanced)  
 
----## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Core Backend
 ![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
