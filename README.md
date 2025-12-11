@@ -13,44 +13,42 @@ I'm a **Senior Backend Engineer** with **7+ years of hands-on experience** build
 **📚 Education**: Master's in Computer Engineering (UFMS) + Exchange at Universidad Politécnica de Madrid  
 **🎓 Certifications**: DELE B2 Spanish (Advanced)  
 
----
-
-## 🛠️ Tech Stack
+---## 🛠️ Tech Stack
 
 ### Core Backend
-![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### Message & Search
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Solr](https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=apache&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Solr](https://img.shields.io/badge/Solr-D9411E?style=flat-square&logo=apache&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ### Databases & Cache
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=flat-square&logo=firebase&logoColor=white)
 
 ### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ### Security & API Management
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-007BC7?style=for-the-badge&logo=auth&logoColor=white)
-![WSO2](https://img.shields.io/badge/WSO2_API_Gateway-FF6600?style=for-the-badge&logo=wso2&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-007BC7?style=flat-square&logo=auth&logoColor=white)
+![WSO2](https://img.shields.io/badge/WSO2_API_Gateway-FF6600?style=flat-square&logo=wso2&logoColor=white)
 
 ### Methodologies & Tools
-![TDD](https://img.shields.io/badge/TDD-4CAF50?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-5C7CCC?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git%2FGitLab-FCA121?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TDD](https://img.shields.io/badge/TDD-4CAF50?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-5C7CCC?style=flat-square)
+![Git](https://img.shields.io/badge/Git%2FGitLab-FCA121?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -85,19 +83,25 @@ Taught systems administration, networking, and embedded systems. Developed multi
 
 **Publications**: 9 academic papers on IoT, precision agriculture, and embedded systems
 
----
 
-
-## 📊 GitHub / GitLab Stats
+## 📊 GitHub / GitLab Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleytessaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytessaro&layout=compact&langs_count=8&theme=tokyonight"/>
+
+**Most Active Technologies:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+
+**GitHub & GitLab:**
+
+[![GitHub](https://img.shields.io/badge/GitHub-GitHub?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wesleytessaro)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/wesleytessaro)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleytessaro&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
